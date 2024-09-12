@@ -57,7 +57,6 @@ int main(void)
     }
 }
 
-
 int get_sets()
 {
     char ch;
